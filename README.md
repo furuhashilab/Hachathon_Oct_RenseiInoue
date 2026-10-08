@@ -2,9 +2,6 @@
 
 明治の **迅速測図**（1880年代）を [Maplat](https://github.com/code4history/MaplatCore) に載せ、青山学院大学 相模原キャンパス周辺の土地の移り変わり（原野 → 軍都 → 学園・研究都市）をたどる Web 地図です。
 
-古橋研究室オンラインハッカソン「10月 FOSS4G Hiroshima / SotM Asia OSAKA 振り返りハッカソン」の成果物です（[furuhashilab/README#42](https://github.com/furuhashilab/README/issues/42#issuecomment-6008763721)）。
-
-- 公開ページ: https://furuhashilab.github.io/Hachathon_Oct_RenseiInoue/
 - 使った新技術: **Maplat**（FOSS4G Hiroshima 2026 の発表 "Bringing Old Maps & Illustrated Maps to the Web: 10 Years of Maplat and Turning Misalignment into Innovation" で紹介）
 
 ## できること
