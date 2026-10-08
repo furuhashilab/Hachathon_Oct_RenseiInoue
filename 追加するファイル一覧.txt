@@ -1,0 +1,39 @@
+■ GitHub に追加するファイル一覧（全 96 ファイル）
+  フォルダ「追加するファイル」の中身を、そのまま全部アップロードすればOKです。
+
+追加するファイル/
+├─ index.html ………………… 成果物のページ本体
+├─ README.md ………………… リポジトリの説明（成果物へのリンク付き）
+├─ LICENSE …………………… ライセンス表記
+├─ maps/
+│   └─ rapid_fuchinobe.json … 古地図の位置合わせデータ（Maplat用）
+├─ pois/
+│   └─ fuchinobe.json ………… 7地点の解説データ
+├─ tiles/
+│   └─ rapid_fuchinobe/ …… 古地図の画像タイル（85枚。中のフォルダごと全部）
+├─ source/
+│   ├─ rapid_fuchinobe_z16.png … 元の古地図画像
+│   └─ README.md ……………… 古地図の出典メモ
+└─ tools/
+    ├─ compile.html ………… 位置合わせデータを作るページ
+    ├─ gcps.json ……………… 対応点データ
+    ├─ make_tiles.ps1 ……… タイルを作るスクリプト
+    └─ serve.ps1 …………… 手元で確認するためのサーバー
+
+
+■ アップロード手順（ブラウザだけでできます）
+
+1. https://github.com/furuhashilab/Hachathon_Oct_RenseiInoue を開く
+2. 「Add file」→「Upload files」をクリック
+   （リポジトリが空の場合は、画面内の「uploading an existing file」のリンクをクリック）
+3. エクスプローラーで「追加するファイル」フォルダを開く
+4. 中身を全部選択（Ctrl + A）して、ブラウザの画面にドラッグ＆ドロップ
+   ※「追加するファイル」フォルダそのものではなく、「中身」をドラッグしてください
+5. 画面下の緑の「Commit changes」ボタンを押す
+
+■ 公開（GitHub Pages）の手順
+
+1. リポジトリの「Settings」→ 左メニューの「Pages」
+2. Source を「Deploy from a branch」、Branch を「main」「/ (root)」にして「Save」
+3. 数分待つと https://furuhashilab.github.io/Hachathon_Oct_RenseiInoue/ で見られます
+   （Settings が見えない場合は、古橋先生に権限をお願いしてください）
