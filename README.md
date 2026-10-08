@@ -48,5 +48,3 @@ powershell -ExecutionPolicy Bypass -File tools/serve.ps1
 - 宇宙科学研究所 沿革（1989年 相模原へ移転）
 - 相模原市立博物館 概要（1995年開館）
 - 青山学院大学 相模原キャンパス（2003年開設）
-
-本作品の制作には Claude Code を使用しました。
