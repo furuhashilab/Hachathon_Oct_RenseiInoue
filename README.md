@@ -31,7 +31,9 @@ powershell -ExecutionPolicy Bypass -File tools/serve.ps1
 
 HABS の迅速測図は、すでに位置合わせ済み（Web メルカトルに投影済み）のモザイク画像です。そのため今回の対応点は画像の格子点から計算した「ほぼ線形」なもので、Maplat の真骨頂である「歪んだ絵図をそのまま重ねる」効果は控えめです。手描きの村絵図などに差し替えれば、同じ仕組みで非線形な対応付けができます。
 
-👉 **[成果物を開く（クリックで地図が表示されます）](https://furuhashilab.github.io/Hachathon_Oct_RenseiInoue/)**
+## 成果物
+
+こちらをクリックして作成した地図をご覧ください
 
 ## 出典・ライセンス
 
