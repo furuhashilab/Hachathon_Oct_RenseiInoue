@@ -2,7 +2,7 @@
 
 明治の **迅速測図**（1880年代）を [Maplat](https://www.maplat.jp/) に載せ、青山学院大学 相模原キャンパス周辺の土地の移り変わり（原野 → 軍都 → 学園・研究都市）をたどる Web 地図です。
 
-- 使った新技術: **Maplat**（FOSS4G Hiroshima 2026 の発表 "Bringing Old Maps & Illustrated Maps to the Web: 10 Years of Maplat and Turning Misalignment into Innovation" で紹介）
+- 使った新技術: **Maplat**（FOSS4G Hiroshima 2026 の発表 "Bringing Old Maps & Illustrated Maps to the Web: 10 Years of Maplat and Turning Misalignment into Innovation" 〈9月2日（水）の 11:00〜11:30（JST）、Dahlia2〉で紹介）
 
 ## できること
 
