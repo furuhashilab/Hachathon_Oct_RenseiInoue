@@ -29,7 +29,7 @@ powershell -ExecutionPolicy Bypass -File tools/serve.ps1
 
 ## 成果物
 
-[こちら](http://localhost:8765/)をクリックして作成した地図をご覧ください
+[こちら](https://furuhashilab.github.io/Hachathon_Oct_RenseiInoue/)をクリックして作成した地図をご覧ください
 
 <img width="1525" height="875" alt="スクリーンショット 2026-10-08 192112" src="https://github.com/user-attachments/assets/d797424c-844b-40d4-89dc-a3c62f052a07" />
 
